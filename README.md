@@ -92,7 +92,7 @@ ros2 run serial_comm user_input_node
 ```
 
 ---
-
+![Alt text](src/images/rqt_graphC2.png)
 ## Task C3: Inverse Kinematics
 
 ### Goal
@@ -137,7 +137,7 @@ ros2 topic pub /miniarm/target geometry_msgs/msg/Vector3 '{x: 10.0, y: 20.0, z: 
 ```
 
 ---
-
+![Alt text](src/images/rqt_graphC3.png)
 ## Task C4: Launch File + Logger Node
 
 ### Logger Node
@@ -171,7 +171,7 @@ ros2 launch serial_comm system_launch.py
 ```
 
 ---
-
+![Alt text](src/images/rqt_graphC4.png)
 ## Task C5: Forward Kinematics
 
 ### Goal
@@ -205,7 +205,7 @@ ros2 topic pub /miniarm/angles geometry_msgs/msg/Vector3 '{x: 90.0, y: 0.0, z: 0
 Expected output: `x = 0.00, y = 29.5`
 
 ---
-
+![Alt text](src/images/rqt_graphC5.png)
 ## Task C6: Demo Run without a Real Arduino
 
 To test run without a real Arduino, you can simply use *sample_arduino.py*. Follow the steps below:
