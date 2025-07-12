@@ -1,17 +1,13 @@
 ````markdown
-# BRAC University ROS2 Control System Documentation
+````
+## Documentation
 
 ---
-
 ## 1. Workspace Setup
-
 ```bash
 mkdir -p ~/ros2_ws_CS/src
 cd ~/ros2_ws_CS/src
-````
-
----
-
+```
 ## 2. Create Your Packages
 
 ```bash
