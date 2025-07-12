@@ -188,6 +188,9 @@ Given a target coordinate `(x, y)`, calculate the joint angles (`theta1`, `theta
    \theta_1 = \text{degrees}(\alpha - \beta)
    $$
 
+### Draft & Calculation(Diagram)
+![rqt\_graph for Task C3](src/images/draft_calculation_diagram.jpg)
+
 ### Running the Node
 
 ```bash
