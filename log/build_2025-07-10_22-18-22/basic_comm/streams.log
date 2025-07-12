@@ -1,0 +1,22 @@
+[1.751s] Invoking command in '/home/vboxuser/ros2_ws_CS/src/basic_comm': PYTHONPATH=/home/vboxuser/ros2_ws_CS/build/basic_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/basic_comm build --build-base /home/vboxuser/ros2_ws_CS/build/basic_comm/build install --record /home/vboxuser/ros2_ws_CS/build/basic_comm/install.log --single-version-externally-managed install_data
+[2.099s] running egg_info
+[2.104s] writing ../../build/basic_comm/basic_comm.egg-info/PKG-INFO
+[2.104s] writing dependency_links to ../../build/basic_comm/basic_comm.egg-info/dependency_links.txt
+[2.104s] writing entry points to ../../build/basic_comm/basic_comm.egg-info/entry_points.txt
+[2.105s] writing requirements to ../../build/basic_comm/basic_comm.egg-info/requires.txt
+[2.105s] writing top-level names to ../../build/basic_comm/basic_comm.egg-info/top_level.txt
+[2.105s] reading manifest file '../../build/basic_comm/basic_comm.egg-info/SOURCES.txt'
+[2.106s] writing manifest file '../../build/basic_comm/basic_comm.egg-info/SOURCES.txt'
+[2.116s] running build
+[2.116s] running build_py
+[2.116s] running install
+[2.116s] running install_lib
+[2.116s] running install_data
+[2.116s] running install_egg_info
+[2.116s] removing '/home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm-0.0.0-py3.10.egg-info' (and everything under it)
+[2.117s] Copying ../../build/basic_comm/basic_comm.egg-info to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm-0.0.0-py3.10.egg-info
+[2.126s] running install_scripts
+[2.158s] Installing listener script to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/basic_comm
+[2.159s] Installing talker script to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/basic_comm
+[2.161s] writing list of installed files to '/home/vboxuser/ros2_ws_CS/build/basic_comm/install.log'
+[2.235s] Invoked command in '/home/vboxuser/ros2_ws_CS/src/basic_comm' returned '0': PYTHONPATH=/home/vboxuser/ros2_ws_CS/build/basic_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/basic_comm build --build-base /home/vboxuser/ros2_ws_CS/build/basic_comm/build install --record /home/vboxuser/ros2_ws_CS/build/basic_comm/install.log --single-version-externally-managed install_data

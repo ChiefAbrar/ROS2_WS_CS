@@ -1,0 +1,26 @@
+[1.555s] Invoking command in '/home/vboxuser/ros2_ws_CS/src/serial_comm': PYTHONPATH=/home/vboxuser/ros2_ws_CS/build/serial_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_comm build --build-base /home/vboxuser/ros2_ws_CS/build/serial_comm/build install --record /home/vboxuser/ros2_ws_CS/build/serial_comm/install.log --single-version-externally-managed install_data
+[1.755s] running egg_info
+[1.765s] writing ../../build/serial_comm/serial_comm.egg-info/PKG-INFO
+[1.765s] writing dependency_links to ../../build/serial_comm/serial_comm.egg-info/dependency_links.txt
+[1.766s] writing entry points to ../../build/serial_comm/serial_comm.egg-info/entry_points.txt
+[1.766s] writing requirements to ../../build/serial_comm/serial_comm.egg-info/requires.txt
+[1.766s] writing top-level names to ../../build/serial_comm/serial_comm.egg-info/top_level.txt
+[1.771s] reading manifest file '../../build/serial_comm/serial_comm.egg-info/SOURCES.txt'
+[1.774s] writing manifest file '../../build/serial_comm/serial_comm.egg-info/SOURCES.txt'
+[1.774s] running build
+[1.774s] running build_py
+[1.775s] copying serial_comm/logger_node.py -> /home/vboxuser/ros2_ws_CS/build/serial_comm/build/lib/serial_comm
+[1.834s] running install
+[1.834s] running install_lib
+[1.834s] copying /home/vboxuser/ros2_ws_CS/build/serial_comm/build/lib/serial_comm/logger_node.py -> /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages/serial_comm
+[1.834s] byte-compiling /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages/serial_comm/logger_node.py to logger_node.cpython-310.pyc
+[1.834s] running install_data
+[1.834s] running install_egg_info
+[1.834s] removing '/home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages/serial_comm-0.0.0-py3.10.egg-info' (and everything under it)
+[1.834s] Copying ../../build/serial_comm/serial_comm.egg-info to /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages/serial_comm-0.0.0-py3.10.egg-info
+[1.834s] running install_scripts
+[1.856s] Installing logger_node script to /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/serial_comm
+[1.857s] Installing serial_node script to /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/serial_comm
+[1.857s] Installing user_input_node script to /home/vboxuser/ros2_ws_CS/install/serial_comm/lib/serial_comm
+[1.858s] writing list of installed files to '/home/vboxuser/ros2_ws_CS/build/serial_comm/install.log'
+[1.943s] Invoked command in '/home/vboxuser/ros2_ws_CS/src/serial_comm' returned '0': PYTHONPATH=/home/vboxuser/ros2_ws_CS/build/serial_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws_CS/install/serial_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_comm build --build-base /home/vboxuser/ros2_ws_CS/build/serial_comm/build install --record /home/vboxuser/ros2_ws_CS/build/serial_comm/install.log --single-version-externally-managed install_data

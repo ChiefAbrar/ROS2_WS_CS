@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/inverse_kinematics/inverse_kinematics.egg-info
+writing ../build/inverse_kinematics/inverse_kinematics.egg-info/PKG-INFO
+writing dependency_links to ../build/inverse_kinematics/inverse_kinematics.egg-info/dependency_links.txt
+writing entry points to ../build/inverse_kinematics/inverse_kinematics.egg-info/entry_points.txt
+writing requirements to ../build/inverse_kinematics/inverse_kinematics.egg-info/requires.txt
+writing top-level names to ../build/inverse_kinematics/inverse_kinematics.egg-info/top_level.txt
+writing manifest file '../build/inverse_kinematics/inverse_kinematics.egg-info/SOURCES.txt'
+reading manifest file '../build/inverse_kinematics/inverse_kinematics.egg-info/SOURCES.txt'
+writing manifest file '../build/inverse_kinematics/inverse_kinematics.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build
+creating /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib
+creating /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib/inverse_kinematics
+copying inverse_kinematics/ik_node.py -> /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib/inverse_kinematics
+copying inverse_kinematics/__init__.py -> /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib/inverse_kinematics
+running install
+running install_lib
+creating /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics
+copying /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib/inverse_kinematics/ik_node.py -> /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics
+copying /home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/build/lib/inverse_kinematics/__init__.py -> /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics
+byte-compiling /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics/ik_node.py to ik_node.cpython-310.pyc
+byte-compiling /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/share/ament_index
+creating /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/share/ament_index/resource_index
+creating /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/share/ament_index/resource_index/packages
+copying resource/inverse_kinematics -> /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/share/ament_index/resource_index/packages
+copying package.xml -> /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/share/inverse_kinematics
+running install_egg_info
+Copying ../build/inverse_kinematics/inverse_kinematics.egg-info to /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ik_node script to /home/vboxuser/ros2_ws_CS/src/install/inverse_kinematics/lib/inverse_kinematics
+writing list of installed files to '/home/vboxuser/ros2_ws_CS/src/build/inverse_kinematics/install.log'

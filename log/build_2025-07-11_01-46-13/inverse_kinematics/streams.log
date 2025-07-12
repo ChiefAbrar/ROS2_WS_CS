@@ -1,0 +1,20 @@
+[1.802s] Invoking command in '/home/vboxuser/ros2_ws_CS/src/inverse_kinematics': PYTHONPATH=/home/vboxuser/ros2_ws_CS/build/inverse_kinematics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws_CS/install/inverse_kinematics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/inverse_kinematics build --build-base /home/vboxuser/ros2_ws_CS/build/inverse_kinematics/build install --record /home/vboxuser/ros2_ws_CS/build/inverse_kinematics/install.log --single-version-externally-managed install_data
+[2.046s] running egg_info
+[2.046s] writing ../../build/inverse_kinematics/inverse_kinematics.egg-info/PKG-INFO
+[2.047s] writing dependency_links to ../../build/inverse_kinematics/inverse_kinematics.egg-info/dependency_links.txt
+[2.048s] writing entry points to ../../build/inverse_kinematics/inverse_kinematics.egg-info/entry_points.txt
+[2.049s] writing requirements to ../../build/inverse_kinematics/inverse_kinematics.egg-info/requires.txt
+[2.049s] writing top-level names to ../../build/inverse_kinematics/inverse_kinematics.egg-info/top_level.txt
+[2.056s] reading manifest file '../../build/inverse_kinematics/inverse_kinematics.egg-info/SOURCES.txt'
+[2.056s] writing manifest file '../../build/inverse_kinematics/inverse_kinematics.egg-info/SOURCES.txt'
+[2.056s] running build
+[2.056s] running build_py
+[2.056s] running install
+[2.056s] running install_lib
+[2.059s] running install_data
+[2.059s] running install_egg_info
+[2.062s] removing '/home/vboxuser/ros2_ws_CS/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics-0.0.0-py3.10.egg-info' (and everything under it)
+[2.062s] Copying ../../build/inverse_kinematics/inverse_kinematics.egg-info to /home/vboxuser/ros2_ws_CS/install/inverse_kinematics/lib/python3.10/site-packages/inverse_kinematics-0.0.0-py3.10.egg-info
+[2.063s] running install_scripts
+[2.086s] Installing ik_node script to /home/vboxuser/ros2_ws_CS/install/inverse_kinematics/lib/inverse_kinematics
+[2.086s] writing list of installed files to '/home/vboxuser/ros2_ws_CS/build/inverse_kinematics/install.log'

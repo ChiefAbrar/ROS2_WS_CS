@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/basic_comm/basic_comm.egg-info
+writing ../../build/basic_comm/basic_comm.egg-info/PKG-INFO
+writing dependency_links to ../../build/basic_comm/basic_comm.egg-info/dependency_links.txt
+writing entry points to ../../build/basic_comm/basic_comm.egg-info/entry_points.txt
+writing requirements to ../../build/basic_comm/basic_comm.egg-info/requires.txt
+writing top-level names to ../../build/basic_comm/basic_comm.egg-info/top_level.txt
+writing manifest file '../../build/basic_comm/basic_comm.egg-info/SOURCES.txt'
+reading manifest file '../../build/basic_comm/basic_comm.egg-info/SOURCES.txt'
+writing manifest file '../../build/basic_comm/basic_comm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vboxuser/ros2_ws_CS/build/basic_comm/build
+creating /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib
+creating /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm
+copying basic_comm/talker.py -> /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm
+copying basic_comm/listener.py -> /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm
+copying basic_comm/__init__.py -> /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm
+running install
+running install_lib
+creating /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm
+copying /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm/talker.py -> /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm
+copying /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm/listener.py -> /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm
+copying /home/vboxuser/ros2_ws_CS/build/basic_comm/build/lib/basic_comm/__init__.py -> /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm
+byte-compiling /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm/talker.py to talker.cpython-310.pyc
+byte-compiling /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm/listener.py to listener.cpython-310.pyc
+byte-compiling /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/vboxuser/ros2_ws_CS/install/basic_comm/share/basic_comm
+running install_egg_info
+Copying ../../build/basic_comm/basic_comm.egg-info to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/python3.10/site-packages/basic_comm-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/basic_comm
+Installing talker script to /home/vboxuser/ros2_ws_CS/install/basic_comm/lib/basic_comm
+writing list of installed files to '/home/vboxuser/ros2_ws_CS/build/basic_comm/install.log'
